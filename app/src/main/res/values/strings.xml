@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Calculadora Simples</string>
+    <string name="bem_vindos_ao_android">Bem vindos ao Android</string>
+    <string name="main_edit_text_parcela1">Parcela 1</string>
+    <string name="main_edit_text_parcela2">Parcela 2</string>
+    <string name="main_button_add">+</string>
+    <string name="main_button_sub">-</string>
+    <string name="main_button_mul">*</string>
+    <string name="main_button_div">/</string>
+    <string name="main_textView_result">Resultado</string>
+    <string name="intent_code">MinhaMensagem</string>
+</resources>
